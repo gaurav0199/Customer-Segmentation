@@ -1,0 +1,4 @@
+drop_columns:
+- Description
+- StockCode
+- Country
